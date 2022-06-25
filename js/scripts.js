@@ -3,12 +3,12 @@ $(document).ready(function(){
         event.preventDefault();
 
         setTimeout(function(){
-            window.location.replace("/maca/salespage");
+            window.location.replace("/bedroom-combo/salespage");
         }, 3000);
     });
 
     $("#logo").click(function(){
-        window.location.replace("/maca/");
+        window.location.replace("/bedroom-combo/");
     });
 
     $("#btn-whatsapp").click(function(){
