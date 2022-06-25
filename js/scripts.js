@@ -12,6 +12,6 @@ $(document).ready(function(){
     });
 
     $("#btn-whatsapp").click(function(){
-        window.location.href = "https://wa.link/a9hl0h";
+        window.location.href = "https://wa.link/3lf0m0";
     });
 });
